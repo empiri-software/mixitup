@@ -6,9 +6,11 @@
   ],
   "ignore": [
     ".*",
-    "Gruntfile.json",
+    "package.json",
+    "Gruntfile.js",
     "**/*.md",
-    "docs"
+    "docs",
+    "build"
   ],
   "dependencies": {
     "jquery": ">=1.7"
