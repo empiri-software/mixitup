@@ -1,6 +1,6 @@
 {
   "name": "bower-mixitup",
-  "version": "2.0.4",
+  "version": "2.0.4.1",
   "main": [
     "src/jquery.mixitup.js",
     "build/jquery.mixitup.min.js"
