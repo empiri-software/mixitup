@@ -1,7 +1,8 @@
 {
-  "name": "mixitup",
+  "name": "bower-mixitup",
   "version": "2.0.4",
   "dependencies": {
     "jquery": ">=1.7"
-  }
+  },
+  "main": ["src/jquery.mixitup.js"]
 }
